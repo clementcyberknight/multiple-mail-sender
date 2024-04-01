@@ -15,7 +15,7 @@ Before using this script, ensure you have the following:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/email-sender.git
+    https://github.com/clementcyberknight/multiple-mail-sender.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -36,7 +36,7 @@ Before using this script, ensure you have the following:
         - `sender_password`: Your Gmail account password. **Note:** For better security, consider using App Passwords if you have 2-Step Verification enabled.
         - `subject`: The subject line of your email.
         - `body_text`: The body text of your email.
-        - `csv_file`: Path to your CSV file containing recipient emails.
+        - `csv_file`: Path to your CSV file containing recipient emails or replace the list of email address to email_add.cs.
 
 5. **Run the Script:**
 
